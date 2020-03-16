@@ -99,8 +99,5 @@ const events = {
   }
 };
 
-(main = async () => {
   showTrendingFilm();
-
   addOnChangeEvent();
-})();
